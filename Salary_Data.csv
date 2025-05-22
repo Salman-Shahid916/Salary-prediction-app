@@ -1,0 +1,11 @@
+Gender,Education,Experience,Age,JobTitle,EstimatedSalary
+Male,Bachelor's,5,30,Software Engineer,85000
+Female,Master's,3,28,Data Analyst,70000
+Male,PhD,10,40,Senior Manager,120000
+Female,Bachelor's,7,35,Sales Associate,65000
+Male,Master's,15,45,Director,150000
+Female,Bachelor's,2,25,Junior Developer,55000
+Male,Master's,12,38,Senior Analyst,95000
+Female,PhD,4,32,Research Scientist,80000
+Male,Bachelor's,8,36,Project Manager,110000
+Female,Master's,5,30,HR Specialist,60000
